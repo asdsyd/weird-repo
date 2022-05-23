@@ -6,9 +6,9 @@ Day 2 of contribution eh?
 idk
 lets commit!
 
-Day 3 of that janfhjhfljkaf
+Day 3 of that 
 weird repository
-akljnkjlndhfkljnaglkjbnaglvjknalfkjnfl
+
 
 yeah------------------- :P
 
@@ -25,3 +25,6 @@ second commit :)
  Lets just Uh Oh! Lost the streak!!
  
  Nooooooo!!
+lets see what could 've been done here?
+Nothing?
+Idk?
