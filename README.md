@@ -2,6 +2,8 @@
 Mostly using it to keep up with contribution graph? ;)
 Hey there! This is a weird repository. I dont know.
 
+##EDIT: This repo will be used to test github features for experimental purposes :)
+
 Day 2 of contribution eh?
 idk
 lets commit!
